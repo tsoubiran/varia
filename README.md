@@ -2,7 +2,7 @@
 
 ## 2022
 
-**Jalons historiques du codage des caractères**
+[**Jalons historiques du codage des caractères**](2022/cis2022--jeux-de-caractères.pdf)
 <br/>
 Présentation au Groupe de travail *[Gouvernance et régulation d’Internet](https://cis.cnrs.fr/gouvernance-et-regulation-dinternet)* du [Centre internet et société](https://cis.cnrs.fr), 
 15 mars 2022 — Ceraps, Lille
