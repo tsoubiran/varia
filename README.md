@@ -11,7 +11,7 @@ Présentation au Groupe de travail *[Gouvernance et régulation d’Internet](ht
 
 **lien :** [2022/cis2022--jeux-de-caractères.pdf](2022/cis2022--jeux-de-caractères.pdf)
 
-**Le recours au consentement dans le traitements de données personnelles en SHS**
+[**Le recours au consentement dans le traitements de données personnelles en SHS**](https://github.com/tsoubiran/dcp-shs/tree/main/varia/principe2022--recours-consentement-shs.pdf)
 <br/>
 Colloque du LIA [PRINciPe](https://ceraps.univ-lille.fr/recherches-en-cours/partenariats-internationaux/) *[La recherche en sciences sociales du point de vue des enquêté·es](https://ceraps.univ-lille.fr/nc/detail-event/colloque-du-lia-organise-par-le-ceraps-et-luniversite-de-montreal/)*, 24 février 2022 — Ceraps, Lille 
 
@@ -19,5 +19,5 @@ Colloque du LIA [PRINciPe](https://ceraps.univ-lille.fr/recherches-en-cours/part
 <br/>
 Après un rappel des éléments pertinents de la réglementation, l’utilisation du consentement ainsi que les conséquences d’un recours inconsidéré à son recueil seront illustrées par cas des pratiques.
 
-**lien :** bientôt…
+**lien :** [principe2022--recours-consentement-shs.pdf](https://github.com/tsoubiran/dcp-shs/tree/main/varia/principe2022--recours-consentement-shs.pdf)
 
